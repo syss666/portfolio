@@ -9,18 +9,18 @@ TMDB의 API를 이용하여 아래 그림과 같이 영화 정보를 보여주�
 
 영화는 현재 개봉중인 영화와 개봉 예정인 영화 그리고 높은 평점을 받은 영화  목록. 
 {% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/main_nowplay.JPG" %}
-{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/mainpage.JPG" %}
 {% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/main_commingsoon.JPG" %}
+{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/main_toprated.JPG" %}
 
 회원가입 페이지는 아이디 중복 체크 패스워드 체크를 하여 이상없으면 회원가입
 {% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/signup.JPG" %}
 가입 성공시 로그인 페이지로 이동
 {% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/login.JPG" %}
 로그인 성공시 (session에 회원정보 저장여부) 상단 메뉴창이 전환
-{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/topmeun.JPG" %}
-{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/topmeun_login.JPG" %}
+{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/topmenu.JPG" %}
+{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/topmenu_login.JPG" %}
 아이디 부분 클릭시 메뉴창
-{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/myupagmenu.JPG" %}
+{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/mypagemenu.JPG" %}
 개인정보 및 수정 페이지
 {% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/mydata.JPG" %}
 회원 탈퇴 페이지 (체크박스 클릭후 누르면 회원탈퇴)
