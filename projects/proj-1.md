@@ -5,12 +5,12 @@ title: '영화 정보 웹사이트'
 
 TMDB의 API를 이용하여 아래 그림과 같이 영화 정보를 보여주는 웹사이트 입니다.
 
-{% include image.html  image="projects/proj-1/mainpage.JPG" %}
+{% image="projects/proj-1/mainpage.JPG" %}
 
 영화는 현재 개봉중인 영화와 개봉 예정인 영화 그리고 높은 평점을 받은 영화  목록. 
-{% include image.html  image="projects/proj-1/main_nowplay.JPG" %}
-{% include image.html  image="projects/proj-1/main_commingsoon.JPG" %}
-{% include image.html  image="projects/proj-1/main_toprated.JPG" %}
+{%   image="projects/proj-1/main_nowplay.JPG" %}
+{%  image="projects/proj-1/main_commingsoon.JPG" %}
+{%  image="projects/proj-1/main_toprated.JPG" %}
 
 회원가입 페이지는 아이디 중복 체크 패스워드 체크를 하여 이상없으면 회원가입
 {% include image.html  image="projects/proj-1/signup.JPG" %}
