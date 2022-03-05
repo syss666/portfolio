@@ -47,4 +47,4 @@ TMDB의 API를 이용하여 아래 그림과 같이 영화 정보를 보여주�
 
 영화 이미지에 마우스 올린 페이지
 영화 스토리와 이름 올라옴
-{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/hover.JPG" %}
+{% include image.html url="https://github.com/syss666/movie" image="projects/proj-1/hover_img.JPG" %}
