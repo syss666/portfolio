@@ -5,7 +5,7 @@ title: '영화 정보 웹사이트'
 
 TMDB의 API를 이용하여 아래 그림과 같이 영화 정보를 보여주는 웹사이트 입니다.
 
-{% image="projects/proj-1/mainpage.JPG" %}
+{! image="projects/proj-1/mainpage.JPG" !}
 
 영화는 현재 개봉중인 영화와 개봉 예정인 영화 그리고 높은 평점을 받은 영화  목록. 
 {%   image="projects/proj-1/main_nowplay.JPG" %}
